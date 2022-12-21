@@ -10,7 +10,7 @@ function Projects() {
     Aos.init({duration:2000});
   },[])
   return (
-    <div data-aos='fade-up' className='flex flex-col gap-3 p-7 items-center m-6 rounded-lg bg-slate-100 shadow-md shadow-slate-500'>
+    <div data-aos='fade-up' className='flex flex-col gap-3 md:p-7 p-4 items-center my-6 md:mx-6 mx-3 rounded-lg bg-slate-100 shadow-md shadow-slate-500'>
     <h3 className='text-5xl font-burtons text-teal-700 m-6'>Projects</h3>
     <div className='flex lg:flex-row flex-col justify-center w-full gap-8 items-center'>
     <div className="max-w-lg lg:max-w-sm bg-white border border-gray-200 rounded-lg shadow-slate-500 shadow-lg dark:bg-gray-800 dark:border-gray-700">

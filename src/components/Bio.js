@@ -8,9 +8,9 @@ function Bio() {
     Aos.init({duration:2000});
   },[])
   return (
-    <div data-aos='fade-right' className='flex md:flex-row flex-col justify-center items-center mx-6 px-0 p-4 md:p-8 bg-teal-600 rounded-lg shadow-md shadow-slate-400'>
-      <div className='flex justify-center items-center w-3/5'>
-        <h3 className=' text-slate-100 md:text-2xl text-xl font-burtons'>
+    <div data-aos='fade-right' className='flex md:flex-row flex-col justify-center items-center md:mx-6 mx-3 px-0 py-4 md:p-8 bg-teal-600 rounded-lg shadow-md shadow-slate-400'>
+      <div className='flex w-3/5'>
+        <h3 className=' text-slate-100 md:text-2xl text-lg font-burtons'>
           "I am Archisman Roy from Kolkata, India. Being a Computer Science student, when I started gaining skills in 
           development, I could see the potential it has. With the development 
           tools around us, we can literally shape our world. 

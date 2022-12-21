@@ -25,7 +25,7 @@ function App() {
     <NavBar />
     <Intro />
     <Bio />
-    <div data-aos='fade-left' className="flex lg:flex-row flex-col gap-4 m-6 justify-center items-center" style={styles.container(isRowBased)}>
+    <div data-aos='fade-left' className="flex lg:flex-row flex-col gap-4 my-6 md:mx-6 mx-3 justify-center items-center" style={styles.container(isRowBased)}>
     <AboutMe />
     <Skills />
     </div>
