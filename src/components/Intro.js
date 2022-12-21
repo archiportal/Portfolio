@@ -29,7 +29,7 @@ function Intro() {
         </a>
         <AiFillInstagram className='cursor-pointer text-teal-700 hover:text-teal-500'/>
       </div>
-      <div className='flex justify-center mt-4'>
+      <div className='flex justify-center mx-4 mt-4'>
         <p className='bg-teal-700 text-slate-100 md:text-2xl text-xl px-4 py-4 rounded-xl hover:bg-teal-600'>e-mail : royarchisman17@gmail.com</p>
       </div>
     </div>
