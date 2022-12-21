@@ -14,7 +14,7 @@ function Intro() {
     <div className='text-center p-10'>
       <div className='text-6xl text-teal-700 py-2 font-burtons'>
         <Typewriter onInit={(typewriter)=>{
-          typewriter.typeString("Hi, I am Archisman").changeDelay(2000).start();
+          typewriter.typeString("Hey! Archisman this side.").changeDelay(2000).start();
         }}/>
         </div>
         <p className='text-2xl py-2 font-burtons text-gray-600'></p>
