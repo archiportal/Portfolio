@@ -9,7 +9,7 @@ function Bio() {
   },[])
   return (
     <div data-aos='fade-right' className='flex md:flex-row flex-col justify-center items-center md:mx-6 mx-3 px-0 py-4 md:p-8 bg-teal-600 rounded-lg shadow-md shadow-slate-400'>
-      <div className='flex w-3/5'>
+      <div className='flex md:w-3/5 w-full p-4'>
         <h3 className=' text-slate-100 md:text-2xl text-lg font-burtons'>
           "I am Archisman Roy from Kolkata, India. Being a Computer Science student, when I started gaining skills in 
           development, I could see the potential it has. With the development 
